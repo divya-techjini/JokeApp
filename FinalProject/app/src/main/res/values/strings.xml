@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Joke App</string>
+    <string name="instructions">Press the button for a joke!</string>
+    <string name="button_text">Display Joke</string>
+    <string name="flavour">Main</string>
+
+    <string name="action_settings">Settings</string>
+    <!--using google sample ids -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <!--<string name="banner_ad_unit_id">ca-app-pub-1260653133896215/5325077486</string>-->
+    <!--<string name="interstitial_ad_unit_id">ca-app-pub-1260653133896215/8278543888</string>-->
+    <string name="please_wait">Please wait&#8230;Fetching jokes&#8230;</string>
+    <string name="error">Error occured while fetching joke. Please try again.</string>
+</resources>
